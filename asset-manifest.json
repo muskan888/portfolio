@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/muskan888/portfolio.git/static/css/main.fe927caf.css",
+    "main.js": "/muskan888/portfolio.git/static/js/main.e661929d.js",
+    "static/js/787.4b24f717.chunk.js": "/muskan888/portfolio.git/static/js/787.4b24f717.chunk.js",
+    "static/media/muskan.jpeg": "/muskan888/portfolio.git/static/media/muskan.3c9892619253ee75bc14.jpeg",
+    "index.html": "/muskan888/portfolio.git/index.html",
+    "main.fe927caf.css.map": "/muskan888/portfolio.git/static/css/main.fe927caf.css.map",
+    "main.e661929d.js.map": "/muskan888/portfolio.git/static/js/main.e661929d.js.map",
+    "787.4b24f717.chunk.js.map": "/muskan888/portfolio.git/static/js/787.4b24f717.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe927caf.css",
+    "static/js/main.e661929d.js"
+  ]
+}
